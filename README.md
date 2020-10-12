@@ -5,3 +5,5 @@ I'm a computer programmer with experince in these domains.
 Desktop 
 
 <img src="https://github.com/dotnet/brand/blob/master/logo/dotnet-logo.svg" width="50" height="50"/>
+
+<img src="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#/media/File:C_Sharp_logo.svg" width="50" height="50"/>
