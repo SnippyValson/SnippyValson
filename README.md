@@ -6,4 +6,4 @@ Desktop
 
 <img src="https://github.com/dotnet/brand/blob/master/logo/dotnet-logo.svg" width="50" height="50"/>
 
-<img src="https://commons.wikimedia.org/wiki/File:C_Sharp_logo.png" width="50" height="50"/>
+<img src="https://en.wikipedia.org/wiki/File:C_Sharp_wordmark.svg" width="50" height="50"/>
