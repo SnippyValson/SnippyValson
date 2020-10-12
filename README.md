@@ -4,4 +4,4 @@ I'm a computer programmer with experince in these domains.
 
 Desktop 
 
-<img src="https://github.com/dotnet/brand/blob/master/logo/dotnet-logo.svg"/>
+<img src="https://github.com/dotnet/brand/blob/master/logo/dotnet-logo.svg" width="50" height="50"/>
